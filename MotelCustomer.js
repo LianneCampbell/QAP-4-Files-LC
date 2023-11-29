@@ -22,7 +22,11 @@ const person = {
         time: '12:00PM',
         date: '11/25/2023',
     },
- 
+    visitors: "Yes",
+    breakfast: "Yes",
+    lunch: "No",
+    dinner: "Yes",
+
 // Functions
 
     getAge: function() {
